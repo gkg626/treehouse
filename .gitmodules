@@ -1,0 +1,3 @@
+[submodule "git_basics/my_really_cool_project"]
+	path = git_basics/my_really_cool_project
+	url = https://github.com/gkg626/my_really_cool_project.git
